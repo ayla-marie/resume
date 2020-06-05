@@ -1,0 +1,54 @@
+
+body {
+background-color: #d6f2ff;
+font-family: 'Cormorant Garamond', serif;
+}
+
+#myname {
+color: #096ab9;
+font-family: 'Cookie', cursive, serif;
+font-size: 2.2em;
+}
+
+h5 {
+font-size: 1.2em;
+font-family: 'Poppins', sans-serif;
+}
+
+h5.listItem {
+font-size: 1em;
+font-family: 'Cormorant Garamond', serif;
+}
+
+h2.page-title {
+color: #0b62ae;
+text-shadow:4px 4px 0px #000000;
+font: 60px 'Impact';
+}
+
+#page2title {
+text-align: center;
+}
+
+#navbar {
+text-align: center;
+}
+
+a: hover {
+	color-background: yellow;
+/*I want the links to highlight and stand out when a user hovers over them*/
+}
+
+hr {
+	border-color: #B1B2B0
+	width: 90%
+	}
+
+div.navbar-box {
+width: 300px;
+border-top: solid black;
+border-left: solid black;
+border-right: solid black;
+border-bottom: none;
+margin-left: 300px;
+}
